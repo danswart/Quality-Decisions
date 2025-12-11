@@ -1,0 +1,165 @@
+---
+title: "Decision Quality for Boards and Councils"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    incremental: true
+---
+
+## Decision Quality for Boards and Councils
+
+- Our goal today: focus on the **quality of the decision process**, not just the outcome.
+- A good outcome can come from a bad process.  
+- A bad outcome can come from a careful, responsible process.
+
+---
+
+## The Central Question
+
+> **Given what we knew at the time, was this a high-quality decision?**
+
+We answer that by looking at seven areas:
+
+1. Problem clarity  
+2. Information quality  
+3. Alternatives and tradeoffs  
+4. Reasoning and analysis  
+5. Procedural quality  
+6. Community representation  
+7. Documentation and transparency  
+
+---
+
+## 1. Problem Clarity
+
+**Good practice**
+
+- Clear statement of the decision question  
+- Goals or success criteria are explicit  
+- Links to adopted policies or strategic plans
+
+**Red flags**
+
+- Vague agenda item (“personnel matter”, “discussion only”)  
+- No articulation of what success would look like
+
+---
+
+## 2. Information Quality
+
+**Good practice**
+
+- Information is directly relevant to the question  
+- Covers key impacts, risks, and tradeoffs  
+- Comes from credible, identifiable sources  
+- Delivered in time for members to review
+
+**Red flags**
+
+- Massive data dump with no summary  
+- Only one side of the story presented  
+- Handouts distributed at the meeting for same-night action  
+
+---
+
+## 3. Alternatives and Tradeoffs
+
+**Good practice**
+
+- More than one option is presented (including status quo)  
+- Benefits, costs, and risks of each option are compared  
+- Reasons for rejecting options are explained
+
+**Red flags**
+
+- “We only have one realistic option.”  
+- No “do nothing” or “delay” option considered  
+- Little or no discussion of long-term consequences  
+
+---
+
+## 4. Reasoning and Analysis
+
+**Good practice**
+
+- Clear line from evidence → options → chosen action  
+- Key assumptions are named and discussed  
+- Uncertainty and risk are acknowledged
+
+**Red flags**
+
+- “Staff recommends this, so I move approval,” with no reasoning  
+- No discussion of assumptions (e.g., future costs, enrollment, market conditions)  
+- Motions passed after minimal discussion  
+
+---
+
+## 5. Procedural Quality
+
+**Good practice**
+
+- Members ask substantive, clarifying questions  
+- Different viewpoints are encouraged and respected  
+- Conflicts of interest are disclosed and managed  
+- Established procedures and norms are followed
+
+**Red flags**
+
+- Rushed decisions without need  
+- Cutting off questions or debate  
+- Side conversations or decisions made outside the public meeting  
+
+---
+
+## 6. Community Representation
+
+**Good practice**
+
+- Impacted stakeholders are informed or consulted  
+- Equity and fairness impacts are considered  
+- The board is aware of how different groups may be affected
+
+**Red flags**
+
+- No opportunity for public input on major items  
+- Groups heavily affected by the decision never appear in the discussion  
+- Public comment is treated as a formality rather than a resource  
+
+---
+
+## 7. Documentation and Transparency
+
+**Good practice**
+
+- Minutes summarize reasoning, not just the vote  
+- Key documents are retained and accessible to the public  
+- An outside observer could reconstruct what happened and why
+
+**Red flags**
+
+- Minutes say only “discussion ensued” or “motion passed”  
+- Supporting documents are hard to find or not posted  
+- No written explanation of the rationale for major decisions  
+
+---
+
+## Using the Rubric
+
+- Apply the rubric to **one past decision** as an exercise.  
+- Score each section or simply mark “strong / adequate / weak”.  
+- Ask:
+  - Where are we strongest?  
+  - Where are our recurring weak spots?  
+  - What one or two habits would most improve our future decisions?
+
+---
+
+## Takeaways
+
+- You can’t remove uncertainty from public decisions.  
+- You **can** improve the clarity, fairness, and transparency of the process.  
+- Over time, strong decision processes build:
+  - Better outcomes on average  
+  - Greater public trust  
+  - A healthier governing culture

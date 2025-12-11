@@ -1,0 +1,96 @@
+---
+title: "Decision Quality Rubric"
+format:
+  html:
+    toc: false
+  pdf: default
+---
+
+## Decision Quality Rubric – City Council / Board Action
+
+**Decision / Agenda Item:**  
+**Date:**  
+**Evaluator(s):**  
+
+---
+
+### 1. Problem Clarity
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| The problem or decision question was clearly defined. | ☐ | ☐ |  |
+| Goals or success criteria were identified. | ☐ | ☐ |  |
+| The decision aligns with adopted policies or strategic priorities. | ☐ | ☐ |  |
+
+---
+
+### 2. Information Quality
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Information addressed the actual decision question. | ☐ | ☐ |  |
+| Key facts, impacts, and tradeoffs were included. | ☐ | ☐ |  |
+| Data sources were credible, transparent, and verifiable. | ☐ | ☐ |  |
+| Materials were provided with enough time for review. | ☐ | ☐ |  |
+
+---
+
+### 3. Alternatives and Tradeoffs
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Multiple viable options (including status quo) were considered. | ☐ | ☐ |  |
+| Benefits, costs, and risks across options were compared. | ☐ | ☐ |  |
+| Reasons for rejecting other options were documented. | ☐ | ☐ |  |
+
+---
+
+### 4. Reasoning and Analysis
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Assumptions were explicit and reasonable. | ☐ | ☐ |  |
+| Uncertainty and risks were acknowledged. | ☐ | ☐ |  |
+| The rationale for the final decision was clearly stated. | ☐ | ☐ |  |
+
+---
+
+### 5. Procedural Quality
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Decision-makers asked substantive questions. | ☐ | ☐ |  |
+| Diverse perspectives were allowed and considered. | ☐ | ☐ |  |
+| Conflicts of interest were disclosed and managed. | ☐ | ☐ |  |
+| The process followed established procedures and norms. | ☐ | ☐ |  |
+
+---
+
+### 6. Community Representation
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Impacted stakeholders were consulted or informed. | ☐ | ☐ |  |
+| Equity and fairness impacts were considered. | ☐ | ☐ |  |
+| Public explanation would be understandable to a typical resident. | ☐ | ☐ |  |
+
+---
+
+### 7. Documentation and Transparency
+
+| Indicator | Yes | No | Notes |
+|----------|:---:|:--:|-------|
+| Key documents and data are retained and accessible. | ☐ | ☐ |  |
+| Meeting minutes/memos record the reasoning. | ☐ | ☐ |  |
+| An outside observer could reconstruct the decision path. | ☐ | ☐ |  |
+
+---
+
+### Overall Assessment
+
+**Mark one:**
+
+- ☐ Strong decision – well-supported and transparent  
+- ☐ Adequate decision – some gaps but generally reasonable  
+- ☐ Weak decision – significant gaps in information, reasoning, or process  
+- ☐ Unable to assess – insufficient documentation or clarity

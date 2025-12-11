@@ -1,0 +1,104 @@
+---
+title: "How to Judge the Quality of a City Decision"
+format:
+  html:
+    toc: false
+  pdf: default
+---
+
+## Not Every Outcome Is Predictable – But Process Quality Is
+
+Not every decision will turn out perfectly. New information appears, conditions change, and leaders are often working with uncertainty.
+
+But we can still ask a fair question:
+
+> **Was this a good decision at the time it was made, given what was known then?**
+
+To answer that, we look at the **quality of the decision-making process**, not just the final result.
+
+---
+
+## Seven Questions for Citizens
+
+### 1. Was the problem clear?
+
+- Did the council clearly state what problem they were trying to solve?  
+- Did they say what success would look like?
+
+When the problem is vague, almost any solution can be justified. Clear problems make for better decisions.
+
+---
+
+### 2. Was the information good?
+
+- Did the council receive information that directly addressed the question at hand?  
+- Were short-term and long-term impacts discussed?  
+- Were the numbers or facts from credible, identifiable sources?  
+- Did members have time to read the material before the meeting?
+
+A huge stack of documents is not the same as good information. Quality matters more than sheer volume.
+
+---
+
+### 3. Were real options considered?
+
+- Did the council discuss more than one option, including “do nothing”?  
+- Were different costs, benefits, and risks compared?  
+- Were reasons for rejecting other options explained?
+
+High-quality decisions almost always involve choosing between clearly described alternatives, not rubber-stamping a single proposal.
+
+---
+
+### 4. Was the reasoning explained?
+
+- Could a reasonable person follow how the council went from “Here’s what we know” to “Here’s what we decided”?  
+- Were key assumptions (for example, about costs or future conditions) made visible?  
+- Were uncertainty and risk acknowledged?
+
+Good governance means you can see the council’s logic, even if you might have chosen differently.
+
+---
+
+### 5. Was the process fair and well run?
+
+- Did members ask real questions, not just offer praise?  
+- Were different viewpoints allowed and treated respectfully?  
+- Were conflicts of interest disclosed and managed appropriately?  
+- Were basic procedures followed?
+
+A strong process does not silence disagreement; it manages it constructively.
+
+---
+
+### 6. Was the community’s voice included?
+
+- Were people and groups affected by the decision informed or given a chance to be heard?  
+- Were equity and fairness considered?  
+- Did the discussion reflect awareness of how different parts of the community might be affected?
+
+Public decisions should reflect public interests, not just administrative convenience.
+
+---
+
+### 7. Is the decision transparent?
+
+- Can an ordinary resident read the agenda, supporting documents, and minutes and understand what happened?  
+- Is the reasoning recorded in some form, not just the final vote?  
+- Are the key documents available without jumping through hoops?
+
+Transparency builds trust. When the public can see **how** decisions were made, they are more likely to accept the result—even when they disagree.
+
+---
+
+## Why This Matters
+
+Evaluating decisions using these process questions shifts the conversation from:
+
+> “Did I personally like the outcome?”
+
+to:
+
+> “Did our city use a fair, informed, and transparent process to arrive at this decision?”
+
+That is the foundation of accountable, democratic local government.
