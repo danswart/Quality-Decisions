@@ -1,0 +1,293 @@
+---
+title: "Principles of Evaluating Decisons"
+format: html
+---
+
+
+
+
+⭐ THE KEY PRINCIPLE
+
+The quality of a decision is judged by the quality of the process, not just the outcome.
+(A good outcome can come from a poor process; a poor outcome can come from a good process.)
+
+So we assess:
+
+👉 Whether the information was complete, relevant, timely, unbiased, and understood
+—not whether the final result happened to work out.
+
+🔷 I. WHAT INFORMATION WAS PROVIDED?
+
+Completeness and relevance
+
+A high-quality decision requires information that is:
+
+Relevant
+
+Directly tied to the policy question
+
+Includes alternatives and tradeoffs
+
+Clearly connected to the stated goals
+
+Complete
+
+Includes fiscal, legal, operational, personnel, and community impact
+
+Avoids cherry-picking
+
+Covers both short- and long-term consequences
+
+Appropriately summarized
+
+Decision-makers receive synthesized, digestible material
+
+Not buried in raw data dumps or irrelevant documents
+
+🔍 Test questions:
+
+“Did the information answer the actual decision question?”
+
+“Was anything critical missing?”
+
+“Was there unnecessary noise that obscured the signal?”
+
+🔷 II. WHO PROVIDED THE INFORMATION?
+
+Credibility and bias
+
+Decision quality depends on:
+
+Source credibility
+
+Staff expertise
+
+Independent evaluators
+
+External consultants
+
+Community stakeholders
+
+Potential bias or conflict
+
+Did the source benefit from the outcome?
+
+Was opposing evidence represented fairly?
+
+Diversity of viewpoints
+
+Were dissenting or minority opinions included?
+
+Were outside perspectives sought?
+
+🔍 Test questions:
+
+“Did the council rely on independent expertise or only internal voices?”
+
+“Were vested interests allowed undue influence?”
+
+🔷 III. HOW WAS THE INFORMATION ANALYZED?
+
+Method and reasoning quality
+
+High-quality decisions reflect:
+
+Clear reasoning
+
+Logical evaluation
+
+Coherent explanation of how evidence supports the action
+
+Structured analysis
+
+Comparative evaluation of alternatives
+
+Cost-benefit or cost-effectiveness analysis
+
+Scenario analysis, including risks and uncertainties
+
+Transparency of assumptions
+
+What was assumed?
+
+What was estimated?
+
+What was unknowable?
+
+Recognition of uncertainty
+
+Explicit acknowledgment of risks
+
+Consideration of what might go wrong
+
+🔍 Test questions:
+
+“Was there a clear ‘line of reasoning’ from evidence → conclusion?”
+
+“Were assumptions explicit or hidden?”
+
+🔷 IV. WHEN WAS THE INFORMATION PROVIDED?
+
+Timeliness and decision pressure
+
+Decision quality improves when:
+
+Information is provided early enough
+
+Council members have time to review
+
+Questions can be asked
+
+Alternatives can be considered
+
+Not under artificial time pressure
+
+Urgency is genuine, not manufactured
+
+Updates are provided if conditions change
+
+🔍 Test questions:
+
+“Did council members have adequate time to digest the information?”
+
+“Was anything rushed?”
+
+🔷 V. WHERE DID THE INFORMATION COME FROM?
+
+Data quality and transparency
+
+Key considerations:
+
+Traceability
+
+Can the data source be verified?
+
+Are documents publicly accessible?
+
+Methodological quality
+
+Are numbers derived from sound methods?
+
+Are assumptions defensible?
+
+Consistency
+
+Do sources align?
+
+Are conflicting sources explained?
+
+🔍 Test questions:
+
+“Are data sources disclosed and checkable?”
+
+“Is the evidence internally consistent?”
+
+🔷 VI. WHAT PROCESS DID THE DECISION-MAKERS FOLLOW?
+
+Decision governance quality
+
+Elements include:
+
+Clear criteria for evaluation
+
+What standards were used?
+
+What goals were prioritized?
+
+Deliberation quality
+
+Were discussions substantive?
+
+Were questions asked and answered?
+
+Was dissent encouraged rather than punished?
+
+Public transparency
+
+Are rationale and materials accessible to the public?
+
+Was the process visible and understandable?
+
+🔍 Test questions:
+
+“Could a reasonable outsider understand how the decision was made?”
+
+“Was the process inclusive, respectful, and deliberative?”
+
+🔷 VII. WHAT ALTERNATIVES WERE CONSIDERED?
+
+Choice architecture
+
+A decision is low quality if:
+
+Only one option was presented
+
+Alternatives were ignored or discouraged
+
+Comparison was superficial or missing
+
+High-quality decisions:
+
+Articulate multiple courses of action
+
+Explicitly compare benefits, costs, and consequences
+
+Identify the option rejected and why
+
+🔍 Test questions:
+
+“Were multiple viable options evaluated?”
+
+“Did the council choose the best among understood alternatives?”
+
+🔷 VIII. HOW WELL WAS THE COMMUNITY’S INTEREST REPRESENTED?
+
+Democratic responsiveness
+
+Key indicators:
+
+Stakeholder input
+
+Public hearings
+
+Citizen feedback
+
+Impact on vulnerable groups
+
+Alignment with adopted policy or values
+
+Does the decision follow stated principles?
+
+Equity and fairness considerations
+
+🔍 Test questions:
+
+“Would the community recognize their concerns in the final decision?”
+
+“Were affected groups consulted or overlooked?”
+
+🔷 IX. DOCUMENTATION OF THE DECISION
+
+A high-quality decision leaves a trace
+
+Good decisions include:
+
+Clear written rationale
+
+Explanation of tradeoffs
+
+Identification of risks
+
+Summary of alternatives
+
+Justification for the chosen path
+
+Poor decisions produce:
+
+Vague minutes
+
+No insight on reasoning
+
+No clear evaluation criteria
+
+Decisions that cannot be reconstructed
